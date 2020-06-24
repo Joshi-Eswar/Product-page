@@ -15,6 +15,67 @@ body{
 
     
 }
+ @media (max-width:700px){
+        
+        #nav-bar{
+            justify-content: center;
+        }
+        .fire1,.fire2,.fire3,.fire4{
+          margin-left: 20%;
+        }
+        body{
+            align-content: center;
+            
+            margin: 0px;
+            padding: 0px;
+            overflow-x: hidden; 
+        }
+        #nav-bar{
+        display:inline-block;
+        padding-top: 30px;
+        margin-left: 0;
+        
+        
+        }
+        .nav-link{
+           
+            margin-right: 20px;
+            margin-left: 20px;
+        }
+    
+    #pricing {
+    /* Add shadows to create the "card" effect */
+    background-color: #E69A8DFF;
+    border-radius: 5px;
+    display: block;
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+    }
+    #navigation{
+       
+    padding:30px;
+    margin-bottom: 150px;
+    position: absolute;
+    }
+    #features{
+        padding-top: 150px;
+    }
+    .features{
+        margin-top: 120px;
+    }
+    #video{
+        width: 380px;
+        height:400px;
+        margin:0;
+        margin-left: 10%;
+        
+    }
+    h2{
+        font-size: 3rem;
+        
+    }
+    }
 h2{margin: 0;}
 #nav-bar{
   display: inline;
