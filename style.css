@@ -60,7 +60,7 @@ margin: 0;
     background:radial-gradient(white,green,#E69A8DFF,red,goldenrod,silver,white);
     margin: 0;
   
-    
+    width:100%;
     position: fixed;
     display: block;
     
